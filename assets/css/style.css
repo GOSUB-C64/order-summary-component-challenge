@@ -41,3 +41,22 @@ main {
     padding: 15px 75px;
     text-align: center;
 }
+
+.plan {
+    background: yellow;
+    border-radius: 20px;
+    margin: 10px 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.music-icon,
+.price {
+    margin: 20px 0 20px 15px;
+}
+
+.change {
+    display: grid;
+    text-align: right;
+}
